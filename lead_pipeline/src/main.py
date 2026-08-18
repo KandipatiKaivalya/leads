@@ -122,6 +122,7 @@ def main():
                 sys.exit(1)
                 
             leads_df = pd.read_csv(reference_csv_path)
+            leads_df['source_id'] = leads_df['source_id'].astype(str)
             
             # Filter leads that need enrichment (where research contains 'pending Hermes enrichment')
             pending_mask = leads_df['research'].str.contains('pending Hermes enrichment', na=True, case=False)
