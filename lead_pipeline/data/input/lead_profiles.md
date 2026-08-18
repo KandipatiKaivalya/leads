@@ -52,7 +52,7 @@
 - **Engine answers:** years = 6_months (→ technical 0, motivation 0) · profit = 50k (→ capital 0)
 - **Provisional score:** 0/100 · **Call priority:** 3 — no solar background signal, clean data
 - **Data-quality flags:** none
-- **Research:** pending Hermes enrichment · **Enrichment:** all geo/research fields pending Hermes enrichment
+- **Research (2026-08-18):** HIGH — **Medha EI | Testing & Commissioning | 3 Years Experience.** (Hyderabad, Telangana, India); website/LinkedIn: https://www.linkedin.com/in/sampangi-srikanth-4298sri/
 - **Call prep:** Standard Script 1→2. Lead with training + starter plan; probe motivation (Q6/Q8) — no demonstrated solar history.
 
 ### #3 Paida Sravan Kumar — P3 (provisional 0)
@@ -210,7 +210,7 @@
 - **Engine answers:** years = 6_months (0/0) · profit = 50k (0) · **Provisional:** 0/100
 - **Call priority:** 3
 - **Data-quality flags:** **name/email mismatch** — form name "SathyanarayanaSwamy Gurram" vs email hr.sreevasavi@gmail.com; verify identity on call
-- **Research/Enrichment:** pending Hermes enrichment
+- **Research (2026-08-18):** HIGH — **TCS** (Andhra Pradesh, India); website/LinkedIn: https://www.linkedin.com/in/sathyanarayanaswamy-gurram-116a8213/
 - **Call prep:** Open with name confirmation (Script 1 asks "are you [name]?") — expect possible correction; then standard qualification.
 
 ### #25 laxman — P3 (provisional 0)
@@ -218,7 +218,7 @@
 - **Engine answers:** years = 6_months (0/0) · profit = 50k (0) · **Provisional:** 0/100
 - **Call priority:** 3
 - **Data-quality flags:** **name/email mismatch** — "laxman" vs narasimharaochitturu27717@gmail.com; verify identity on call
-- **Research/Enrichment:** pending Hermes enrichment
+- **Research (2026-08-18):** HIGH — **pending** (Hyderabad, Telangana, India); website/LinkedIn: https://www.linkedin.com/in/laxman-chityala-54b3291a0/
 - **Call prep:** Confirm identity/full name first; standard qualification.
 
 ### #26 Nmr Pavan — P3 (provisional 0)
@@ -239,7 +239,7 @@
 - **Engine answers:** years = more_than_1_year (→ 2/2) · profit = more_than_5_lakh (→ capital 2) · **Provisional:** 40/100 (score NOT actionable until contact fixed)
 - **Call priority:** 4 — **fix contact data before calling**
 - **Data-quality flags:** **garbled name** (?????? ????????????); **phone +19493797111 is US format, out of AP/TS pattern** — likely wrong/foreign number
-- **Research:** not run (contact unusable) · **Enrichment:** pending Hermes enrichment
+- **Research (2026-08-18):** HIGH — **pending** (Hyderabad, Telangana, India); website/LinkedIn: https://www.linkedin.com/in/mohanag-pro/
 - **Call prep:** Before calling: use email kosurikoti111@gmail.com (via WhatsApp/email) to recover correct name + Indian phone number; verify the +1949 number ownership. Only then qualify — answers suggest strong experience/capital.
 
 ### #29 Swethamber Reddy Boyapally — P2 (provisional 20)
@@ -307,7 +307,7 @@
 - **Engine answers:** years = more_than_1_year (→ 2/2) · profit = 50k (→ capital 0) · **Provisional:** 20/100
 - **Call priority:** 2 — 3+ yrs experience, low capital signal
 - **Data-quality flags:** **phone 9177516679 missing +91** — normalizable to **+919177516679**; verify before dialing
-- **Research/Enrichment:** pending Hermes enrichment
+- **Research (2026-08-18):** HIGH — **pending** (YSR, Andhra Pradesh, India); website/LinkedIn: https://www.linkedin.com/in/hari-v-b9b189248/
 - **Call prep:** Dial +919177516679; confirm identity (name "Hari V." incomplete); probe capital — referral/sub-dealer entry if zero-capital.
 
 ### #39 Tadisina Ravi Kumar?? — P3 (provisional 0)
@@ -315,7 +315,7 @@
 - **Engine answers:** years = 6_months (0/0) · profit = 50k (0) · **Provisional:** 0/100
 - **Call priority:** 3
 - **Data-quality flags:** **trailing "??" in name** — clean to "Tadisina Ravi Kumar" before calling
-- **Research/Enrichment:** pending Hermes enrichment
+- **Research (2026-08-18):** NONE — no public profile found on LinkedIn
 - **Call prep:** Use cleaned name; standard qualification.
 
 ### #40 Subbu Choudary Papasani — P2 (provisional 20)
@@ -329,7 +329,7 @@
 - **Engine answers:** years = 6_months (0/0) · profit = 50k (0) · **Provisional:** 0/100
 - **Call priority:** 3
 - **Data-quality flags:** **name/email mismatch** — "Noor AHAMMED" vs kirankiranmobile8@gmail.com; verify identity on call
-- **Research/Enrichment:** pending Hermes enrichment
+- **Research (2026-08-18):** HIGH — **FinTech Domain | MBA Finance | Risk & Compliance Analyst** (Greater Hyderabad Area); website/LinkedIn: https://www.linkedin.com/in/noor7601/
 - **Call prep:** Confirm identity/full name; standard qualification.
 
 ### #42 Muralikrishna Gunti — P1 (provisional 30)
@@ -358,7 +358,7 @@
 - **Engine answers:** years = 6_months (0/0) · profit = 50k (0) · **Provisional:** 0/100
 - **Call priority:** 3
 - **Data-quality flags:** **name/email mismatch** ("Suryavan Solar" vs karthikmaturi1379@gmail.com); **name suggests an existing solar business** — verify on call; if confirmed, re-flag as Segment B
-- **Research/Enrichment:** pending Hermes enrichment
+- **Research (2026-08-18):** HIGH — **pending** (Curarrehue, Araucanía Region, Chile); website/LinkedIn: https://www.linkedin.com/in/suryavan-solar-879905232/
 - **Call prep:** Verify whether "Suryavan Solar" is his existing business (Q1) — if yes, escalate to Segment B treatment (fast-track, pitch partner economics).
 
 ### #46 Chinta Srinivas — P1 (provisional 0)
