@@ -65,12 +65,31 @@ def update_markdown_file(md_path: Path, enriched_leads: dict):
             lead_id = int(m.group(1))
             if lead_id in enriched_leads:
                 new_res, new_enr = enriched_leads[lead_id]
-                for i, line in enumerate(lines):
-                    if line.strip().startswith("- **Research"):
-                        # Extract date pattern if any, but replace with 2026-08-18
-                        lines[i] = f"- **Research (2026-08-18):** {new_res}"
-                    elif line.strip().startswith("- **Enrichment:**"):
-                        lines[i] = f"- **Enrichment:** {new_enr}"
+                
+                # Filter out any existing research or enrichment lines
+                filtered_lines = []
+                for line in lines:
+                    strip_l = line.strip()
+                    if strip_l.startswith("- **Research") or strip_l.startswith("- **Enrichment"):
+                        continue
+                    filtered_lines.append(line)
+                
+                # Insert new research and enrichment lines right before "- **Call prep:"
+                inserted = False
+                final_lines = []
+                for line in filtered_lines:
+                    if line.strip().startswith("- **Call prep:") and not inserted:
+                        final_lines.append(f"- **Research (2026-08-18):** {new_res}")
+                        final_lines.append(f"- **Enrichment:** {new_enr}")
+                        inserted = True
+                    final_lines.append(line)
+                
+                # Fallback in case Call prep is missing
+                if not inserted:
+                    final_lines.append(f"- **Research (2026-08-18):** {new_res}")
+                    final_lines.append(f"- **Enrichment:** {new_enr}")
+                    
+                lines = final_lines
         new_cards.append("\n".join(lines))
         
     with open(md_path, "w", encoding="utf-8") as f:
