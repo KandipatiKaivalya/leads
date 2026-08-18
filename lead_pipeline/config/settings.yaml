@@ -1,0 +1,25 @@
+# Solar Lead Profile Pipeline Configuration
+
+scrape:
+  linkedin:
+    enabled: true
+    mode: "enrichment"  # Options: enrichment, keyword
+    search_term: "solar sales manager"
+    max_pages: 2
+    delay_seconds: 5.0
+    headless: false
+    max_results: 20
+
+load:
+  csv_raw_output: "output/linkedin_raw_leads.csv"
+  csv_processed_output: "output/linkedin_leads_processed.csv"
+  reference_input: "data/input/leads_reference.csv"
+
+# CSS Selectors for robust scraping (isolated for ease of updates)
+selectors:
+  linkedin:
+    card_container: "[role='listitem']"
+    name: "p"
+    title: "p"
+    location: "p"
+    link: "a[href*='/in/']"

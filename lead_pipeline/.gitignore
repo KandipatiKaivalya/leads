@@ -1,0 +1,16 @@
+# Python virtual env
+.venv/
+__pycache__/
+*.pyc
+
+# Local environment and settings
+.env
+config/settings_local.yaml
+
+# Data and logs
+data/output/*
+output/*
+!data/output/.gitkeep
+!output/.gitkeep
+*.log
+.pytest_cache/

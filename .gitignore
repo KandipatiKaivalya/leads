@@ -1,0 +1,18 @@
+# Virtual environments
+.venv/
+lead_pipeline/.venv/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# Local environments
+.env
+lead_pipeline/.env
+
+# Temporary/debug logs and screenshots
+*.log
+output/empty_page_*
+.pytest_cache/
+.vscode/
